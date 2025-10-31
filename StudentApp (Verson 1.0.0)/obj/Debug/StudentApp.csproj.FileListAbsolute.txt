@@ -1,0 +1,12 @@
+D:\keroles\مشاكل وكورسات للسي شارب DB + .NET مهم جدااااااااا\StudentApp\obj\Debug\StudentApp.csproj.AssemblyReference.cache
+D:\keroles\مشاكل وكورسات للسي شارب DB + .NET مهم جدااااااااا\StudentApp\obj\Debug\StudentApp.Forms.frmStudentsList.resources
+D:\keroles\مشاكل وكورسات للسي شارب DB + .NET مهم جدااااااااا\StudentApp\obj\Debug\StudentApp.Properties.Resources.resources
+D:\keroles\مشاكل وكورسات للسي شارب DB + .NET مهم جدااااااااا\StudentApp\obj\Debug\StudentApp.csproj.GenerateResource.cache
+D:\keroles\مشاكل وكورسات للسي شارب DB + .NET مهم جدااااااااا\StudentApp\obj\Debug\StudentApp.csproj.CoreCompileInputs.cache
+D:\keroles\مشاكل وكورسات للسي شارب DB + .NET مهم جدااااااااا\StudentApp\bin\Debug\StudentApp.exe.config
+D:\keroles\مشاكل وكورسات للسي شارب DB + .NET مهم جدااااااااا\StudentApp\bin\Debug\StudentApp.exe
+D:\keroles\مشاكل وكورسات للسي شارب DB + .NET مهم جدااااااااا\StudentApp\bin\Debug\StudentApp.pdb
+D:\keroles\مشاكل وكورسات للسي شارب DB + .NET مهم جدااااااااا\StudentApp\obj\Debug\StudentApp.exe
+D:\keroles\مشاكل وكورسات للسي شارب DB + .NET مهم جدااااااااا\StudentApp\obj\Debug\StudentApp.pdb
+D:\keroles\مشاكل وكورسات للسي شارب DB + .NET مهم جدااااااااا\StudentApp\obj\Debug\StudentApp.exe.config
+D:\keroles\مشاكل وكورسات للسي شارب DB + .NET مهم جدااااااااا\StudentApp\obj\Debug\StudentApp.Forms.frmAdd_Edit_Student.resources
